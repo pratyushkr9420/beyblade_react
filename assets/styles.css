@@ -1,0 +1,12 @@
+body{
+    background-color: lightskyblue;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+form >*{
+    width: 50%;
+    margin:0.5rem
+}
